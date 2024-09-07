@@ -4,7 +4,7 @@ This is a PyTorch implementation of ["Direction-Aware Spatial Context Features f
 The Spacial IRNN is implemented by using CUDA 9.0. The backbone is ResNeXt101 pre-trained on ImageNet and the implementation of loss is from [Quanlong Zheng](https://quanlzheng.github.io). 
 
 ## Results
-We use two GTX 1080Ti to train the DSC on SBU dataset.
+Please find the new results at [https://github.com/xw-hu/Unveiling-Deep-Shadows](https://github.com/xw-hu/Unveiling-Deep-Shadows).
 
 ### SBU
 | Methods | BER | Accuracy |
